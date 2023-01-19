@@ -31,32 +31,24 @@ header h1{
 }
 
 main p{
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
 .col{
     float: left;
-    width: 31%;
+    margin: 20px 14px;
+    width: calc(100% / 3 - 28px);
     height: 80px;
     background-color: black;
-    margin-bottom: 40px;
     background-position: left;
     background-size: contain;
     background-repeat: no-repeat; 
-    box-shadow: 0 2px 4px 0 rgb(136, 136, 136, 0.5);
-}
-
-.col-1,
-.col-2,
-.col-4,
-.col-5{
-    margin-right: 22px;
+    box-shadow: 0 4px 6px 0 rgb(136, 136, 136, 0.5);
 }
 
 .col-1{
     background-image: url("../assets/img/male1.png");
-    margin-left: 10px;
 }
 
 .col-2{
@@ -69,7 +61,6 @@ main p{
 
 .col-4{
     background-image: url("../assets/img/female2.png");
-    margin-left: 10px;
 }
 
 .col-5{
