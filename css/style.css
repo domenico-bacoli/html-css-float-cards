@@ -55,29 +55,29 @@ main p{
 }
 
 .col-1{
-    background-image: url("/assets/img/male1.png");
+    background-image: url("assets/img/male1.png");
     margin-left: 10px;
 }
 
 .col-2{
-    background-image: url("/assets/img/female1.png");
+    background-image: url("assets/img/female1.png");
 }
 
 .col-3{
-    background-image: url("/assets/img/male2.png");
+    background-image: url("assets/img/male2.png");
 }
 
 .col-4{
-    background-image: url("/assets/img/female2.png");
+    background-image: url("assets/img/female2.png");
     margin-left: 10px;
 }
 
 .col-5{
-    background-image: url("/assets/img/male3.png");
+    background-image: url("assets/img/male3.png");
 }
 
 .col-6{
-    background-image: url("/assets/img/female3.png");
+    background-image: url("assets/img/female3.png");
 }
 
 .card-details{
